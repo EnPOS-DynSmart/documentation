@@ -1,0 +1,8 @@
+{
+  "label": "DynSmart Menüler",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "DynSmart'ın menüleri."
+  }
+}
