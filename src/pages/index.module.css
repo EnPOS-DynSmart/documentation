@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+/* Anasayfa Logoyu Özelleştirme */
+.logo {
+  max-width: 150px; /* Maksimum genişlik */
+  height: auto; /* Yükseklik genişlik ile orantılı */
+  margin-bottom: 1rem; /* Alt boşluk */
+}
+

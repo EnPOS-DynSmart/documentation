@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 5
 ---
 
 # Stoğu Tükenen Ürünler (XLS)

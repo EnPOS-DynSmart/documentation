@@ -8,6 +8,15 @@ yangshun:
     x: yangshunz
     github: yangshun
 
+EnPOS:
+  name: EnPOS
+  title: EnPOS perakende çözümleri
+  url: https://enpos.com.tr 
+  image_url: https://www.enpos.com.tr/wp-content/uploads/2023/01/EnPOS-Logo-1.png
+  page: true
+  socials:
+    x: EnPOS  
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer

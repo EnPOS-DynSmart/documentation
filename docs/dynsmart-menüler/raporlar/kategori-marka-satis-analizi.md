@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Kategoriler
+# Kategori-Marka Satış Analizi
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 

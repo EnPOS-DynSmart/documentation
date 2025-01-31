@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'DynSmart',
+  tagline: 'Perakende için ERP.',
+  favicon: 'img/anasayfa/dynsmart-logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -22,9 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'EnPOS-DynSmart', // Usually your GitHub org/user name.
+  projectName: 'documentation', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -42,11 +41,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
+
         },
         blog: {
           showReadingTime: true,
@@ -54,10 +51,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -73,25 +66,31 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/anasayfa/dynsmart-logo.png',
       navbar: {
-        title: 'My Site',
+        title: 'DynSmart',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'DynSmart Logo',
+          src: 'img/anasayfa/dynsmart-logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Dokümantasyon',
           },
+         
+
+
+          { to: 'docs/products/intro', label: 'EnPOS Donanımları', position: 'left' },
+          { to: 'docs/software/intro', label: 'EnPOS Yazılımları', position: 'left' },
+          
           {to: '/blog', label: 'Blog', position: 'left'},
+
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://dynsmart.com',
+            label: 'DynSmart.com',
             position: 'right',
           },
         ],
@@ -100,28 +99,61 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Donanım',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'YN500',
+                href: 'https://www.enpos.com.tr/yn500/' ,
               },
+              {
+                label: 'YN101',
+                href: 'https://dynsmart.com/yn101/',
+              },
+              {
+                label: 'YN100',
+                href: 'https://www.enpos.com.tr/yn100/',
+              },
+              {
+                label: 'YN200',
+                href: 'https://www.enpos.com.tr/yn200/',
+              },
+              {
+                label: 'N-POS Pro',
+                href: 'https://www.enpos.com.tr/n-pos-pro/',
+              },
+              {
+                label: 'N-POS Max',
+                href: 'https://www.enpos.com.tr/n-pos-max/',
+              },
+
             ],
           },
           {
-            title: 'Community',
+            title: 'Yazılım',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'DynSmart',
+                href: 'https://dynsmart.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'DynMaster',
+                href: 'https://www.enpos.com.tr/dynmaster/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'DynFlex',
+                href: 'https://www.enpos.com.tr/dynflex/',
+              },
+              {
+                label: 'DynCash',
+                href: 'https://www.enpos.com.tr/dyncash/',
+              },
+              {
+                label: 'DynKitchen',
+                href: 'https://www.enpos.com.tr/dynkitchen/',
+              },
+              {
+                label: 'ISS',
+                href: 'https://www.enpos.com.tr/iss/',
               },
             ],
           },
@@ -139,7 +171,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Tüm Hakları Saklıdır © ${new Date().getFullYear()} EnPOS Bilişim A.Ş.`,
       },
       prism: {
         theme: prismThemes.github,
