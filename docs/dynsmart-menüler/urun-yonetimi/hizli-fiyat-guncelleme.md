@@ -4,20 +4,14 @@ sidebar_position: 7
 
 # Ürün Yönetimi
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Ürün İşlemleri > Hızlı Fiyat Güncelleme
 
-Docusaurus has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+Hızlı Fiyat Güncelleme ekranını kullanarak istediğimiz ürünün fiyatını değiştirebiliriz.
+Farklı fiyat listelerini görüntüleyebilmek ve farklı fiyat listelerinde fiyat değiştirmek için kırmızı fiyat listesi butonuna (“Ankara Merkez”) tıklayalım. 
+Aşağıdaki görselde “Ankara Merkez” ve “Fiyat” isimli iki fiyat listesi görüntüleniyor. 
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
-## What's next?
+Arama yapmak için sol üst köşedeki “Ara” bölümünü kullanabiliriz. 
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+

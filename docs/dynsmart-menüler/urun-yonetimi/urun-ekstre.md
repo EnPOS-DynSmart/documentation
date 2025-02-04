@@ -4,4 +4,4 @@ sidebar_position: 3
 
 # Ürün Ekstre
 
-![Urun-Listesi](/img/urun-yonetimi/urun-ekstre.png)
+![Urun-Ekstre](/img/urun-yonetimi/urun-ekstre.png)

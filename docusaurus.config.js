@@ -66,7 +66,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/anasayfa/dynsmart-logo.png',
+      image: 'img/anasayfa/dynsmart-logo-white.png',
       navbar: {
         title: 'DynSmart',
         logo: {
@@ -80,8 +80,6 @@ const config = {
             position: 'left',
             label: 'Dokümantasyon',
           },
-         
-
 
           { to: 'docs/products/intro', label: 'EnPOS Donanımları', position: 'left' },
           { to: 'docs/software/intro', label: 'EnPOS Yazılımları', position: 'left' },

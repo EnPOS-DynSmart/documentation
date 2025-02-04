@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
       <img
-          src="img/anasayfa/dynsmart-logo.png" // Logonuzun yolu (static/img klasöründe olmalı)
+          src="img/anasayfa/dynsmart-logo-white.png" // Logonuzun yolu (static/img klasöründe olmalı)
           alt="DynSmart Logo"
           className={styles.logo} // CSS ile özelleştirme
         />
@@ -25,7 +25,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            5 Dakikada DynSmart! ⏱️
+            DynSmart Nedir?
           </Link>
         </div>
       </div>
