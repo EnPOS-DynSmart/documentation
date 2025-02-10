@@ -13,7 +13,7 @@ Aşağıdaki ekranda sol üst köşedeki mavi renkli **Yeni Ekle** butonuna tık
 
 Açılan ekrandan marka bilgilerini ekleyelim. Başlık kısmına marka ismini girelim.  
 
-![Markalar](/img/urun-yonetimi/marka_ekle.png)
+![Markalar](/img/urun-yonetimi/marka-ekle.png)
 
 Ardından sağ alt köşedeki yeşil **Kaydet** butonuna tıklayarak kaydedelim.
 
