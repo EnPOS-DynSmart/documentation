@@ -31,8 +31,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'tr',
+    locales: ['tr'],
   },
 
   presets: [
@@ -57,7 +57,9 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          //customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
+
         },
       }),
     ],
