@@ -9,8 +9,6 @@ DynMaster
 
 İster tek şubeniz olsun ister yüzlerce; **DynMaster** hepsini tek merkezden kolaylıkla yönetmenizi sağlar.
 
-
-
 DynMaster, tek ya da çok şubeli perakende veya ihtisas mağazaları için operasyonu en üst seviyeye taşıyan perakende süreç yönetimi olup, işletme ihtiyacına göre iki farklı uygulama çözümü vardır.
 
 1.  DynMasterLITE

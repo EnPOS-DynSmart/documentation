@@ -74,6 +74,7 @@ const config = {
         logo: {
           alt: 'DynSmart Logo',
           src: 'img/anasayfa/dynsmart-logo.png',
+
         },
         items: [
           {
@@ -107,15 +108,15 @@ const config = {
               },
               {
                 label: 'YN101',
-                href: '/docs/products/yn101/',
+                href: '/docs/products/YN101/',
               },
               {
                 label: 'YN100',
-                href: '/docs/products/yn100/',
+                href: '/docs/products/YN100/',
               },
               {
                 label: 'YN200',
-                href: '/docs/products/yn200/',
+                href: '/docs/products/YN200/',
               },
               {
                 label: 'N-POS Pro',
