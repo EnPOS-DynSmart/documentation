@@ -3,7 +3,7 @@ DynSmart
 
 Tek Kasa veya Yüzlerce Kasa, Her Zaman Yüksek Performans!
 -----------------------------------------------------------
-<img src="/img/enpos/dynsmart.png" width="450"/>
+<img src="/img/enpos/dynsmart.png" />
 
 Sektör ihtiyaçlarının titizlikle analiz edildiği, müşteri odaklı bir yaklaşımla geliştirilen **DynSmart**, EnPOS’un  perakende çözümleri arasında en yenilikçi ürünü.
 

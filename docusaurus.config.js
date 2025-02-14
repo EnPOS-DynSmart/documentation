@@ -99,74 +99,101 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Donanım',
+            title: 'Donanım Çözümlerimiz',
             items: [
               {
                 label: 'YN500',
-                href: 'https://www.enpos.com.tr/yn500/' ,
+                href: '/docs/products/YN500' ,
               },
               {
                 label: 'YN101',
-                href: 'https://dynsmart.com/yn101/',
+                href: '/docs/products/yn101/',
               },
               {
                 label: 'YN100',
-                href: 'https://www.enpos.com.tr/yn100/',
+                href: '/docs/products/yn100/',
               },
               {
                 label: 'YN200',
-                href: 'https://www.enpos.com.tr/yn200/',
+                href: '/docs/products/yn200/',
               },
               {
                 label: 'N-POS Pro',
-                href: 'https://www.enpos.com.tr/n-pos-pro/',
+                href: '/docs/products/NPOS-Pro/',
               },
               {
                 label: 'N-POS Max',
-                href: 'https://www.enpos.com.tr/n-pos-max/',
+                href: '/docs/products/NPOS-Max/',
               },
 
             ],
           },
           {
-            title: 'Yazılım',
+            title: 'Yazılım Çözümlerimiz',
             items: [
               {
                 label: 'DynSmart',
-                href: 'https://dynsmart.com',
+                href: '/docs/software/dynsmart/',
               },
               {
                 label: 'DynMaster',
-                href: 'https://www.enpos.com.tr/dynmaster/',
+                href: '/docs/software/dynmaster/',
               },
               {
                 label: 'DynFlex',
-                href: 'https://www.enpos.com.tr/dynflex/',
+                href: '/docs/software/dynflex/',
               },
               {
                 label: 'DynCash',
-                href: 'https://www.enpos.com.tr/dyncash/',
+                href: '/docs/software/dyncash/',
               },
               {
                 label: 'DynKitchen',
-                href: 'https://www.enpos.com.tr/dynkitchen/',
+                href: '/docs/software/dynkitchen/',
               },
               {
                 label: 'ISS',
-                href: 'https://www.enpos.com.tr/iss/',
+                href: '/docs/software/iss/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Sosyal Medya',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'X',
+                href: 'https://x.com/EnPOS_as',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/enpos_as/',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@enposas3355/',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/enpos.as/',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://tr.linkedin.com/company/enposbilisim',
+              },
+            ],
+          },
+          {
+            title: 'İletişim',
+            items: [
+              {
+                html: 'Yamanevler Mahallesi Ömer Faik Atakan Caddesi No:3 Yılmaz Plaza Kat:3 34768',
+              },
+              {
+                html: '<strong>Ümraniye / İstanbul</strong>'
+              },
+              {
+                label: 'info@enpos.com.tr',
+                href: 'mailto: info@enpos.com.tr',
               },
             ],
           },

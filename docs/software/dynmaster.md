@@ -3,12 +3,12 @@ DynMaster
 
 İşletmenizin Tüm Satış Süreçlerini Merkezden Yönetin
 ----------------------------------------------------
+<img src="/img/enpos/dynmaster.png" width="800"/>
 
 **DynMaster**, perakende işletmelerin tüm satış süreçlerini yönetmelerine yardımcı olur ve işlerini daha verimli hale getirir.
 
 İster tek şubeniz olsun ister yüzlerce; **DynMaster** hepsini tek merkezden kolaylıkla yönetmenizi sağlar.
 
-<img src="/img/enpos/dynmaster.png" width="450"/>
 
 
 DynMaster, tek ya da çok şubeli perakende veya ihtisas mağazaları için operasyonu en üst seviyeye taşıyan perakende süreç yönetimi olup, işletme ihtiyacına göre iki farklı uygulama çözümü vardır.

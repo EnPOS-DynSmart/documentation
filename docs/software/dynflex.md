@@ -15,7 +15,7 @@ DynFlex Size Ne Sunuyor?
 
 Bunun yanı sıra satış belgesi, **e-Fatura**, **e-Arşiv Fatura**, gider pusulası ve fişlerdeki karmaşık satış hareketlerinin sadeleştirilerek belgeye yazılmasını sağlar.
 
-Broşürü İndir
+[📥 Broşürü İndir](https://www.enpos.com.tr/wp-content/uploads/2023/07/dynflex.pdf)
 
 DynFlex, Çevre Birimleriyle Uyumlu ve Hızlı 
 --------------------------------------------
