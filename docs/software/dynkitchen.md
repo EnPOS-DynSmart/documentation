@@ -1,4 +1,4 @@
-DynKitchen
+DynKitchen | Kafe & Restoran Yazılımı
 =======
 
 **DynKitchen**, restoran, fastfood, kafe, bar, pastane, patiseri ve paket servisi yapan işletmelerin, sipariş yönetimi, stok takibi, menü yönetimi gibi işlemleri yapabildikleri; operasyonel süreçlerini optimize etmelerine ve müşteri deneyimini geliştirmelerine yardımcı olan harika bir satış otomasyonudur.

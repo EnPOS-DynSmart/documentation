@@ -1,4 +1,4 @@
-DynSmart
+DynSmart | Perakende için ERP 
 ========
 
 Tek Kasa veya Yüzlerce Kasa, Her Zaman Yüksek Performans!

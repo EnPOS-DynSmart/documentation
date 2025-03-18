@@ -74,6 +74,7 @@ const config = {
         logo: {
           alt: 'DynSmart Logo',
           src: 'img/anasayfa/dynsmart-logo.png',
+          
 
         },
         items: [
@@ -81,13 +82,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Dokümantasyon',
+            label: 'Docs',
           },
-
+          { to: 'docs/dynsmart-menuler/intro', label: 'DynSmart Menüler', position: 'left' },
+          { to: 'docs/temel-erp-egitimi/intro', label: 'Temel ERP Eğitimi', position: 'left' },
           { to: 'docs/products/intro', label: 'EnPOS Donanımları', position: 'left' },
           { to: 'docs/software/intro', label: 'EnPOS Yazılımları', position: 'left' },
           
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'EnPOS Blog', position: 'right'},
 
           {
             href: 'https://dynsmart.com',

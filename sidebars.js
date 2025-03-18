@@ -31,7 +31,7 @@ const sidebars = {
   
   // But you can create a sidebar manually
   /*
-  tutorialSidebar: [
+  softwareSidebar: [
     'intro',
     'hello',
     {

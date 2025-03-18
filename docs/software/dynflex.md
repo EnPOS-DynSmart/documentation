@@ -1,4 +1,4 @@
-DynFlex
+DynFlex | Android Satış Yazılımı
 =======
 
 Mağazanızın her yerinden tabletle satış yapın!

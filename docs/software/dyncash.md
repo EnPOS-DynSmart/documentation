@@ -1,4 +1,4 @@
-DynCash
+DynCash | Satış Otomasyon Yazılımı
 =======
 
 İster Tek İster Çok Şubeli Olsun, Her Zaman Yüksek Performans!

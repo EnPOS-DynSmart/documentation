@@ -1,4 +1,4 @@
-DynMaster
+DynMaster | Arka Ofis Yönetim Yazılımı
 =========
 
 İşletmenizin Tüm Satış Süreçlerini Merkezden Yönetin

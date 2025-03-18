@@ -4,4 +4,7 @@ sidebar_position: 11
 
 # Alımdan İade Faturası Görüntüleme
 
-Bu doküman 'Alımdan İade Faturası Görüntüleme' özelliği ile ilgili bilgi içermektedir.
+![Alım İade Faturası](/img/faturalar/alim-iade-faturalari.png)
+
+Fatura numaralarına tıklayarak ilgili fatura detaylarına girebilir, onaylanmış faturalar dışındaki faturalarda değişiklikler yapabilirsiniz.
+

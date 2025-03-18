@@ -1,32 +1,6 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
 
 EnPOS:
-  name: EnPOS
+  name: EnPOS Bilişim
   title: EnPOS perakende çözümleri
   url: https://enpos.com.tr 
-  image_url: https://www.enpos.com.tr/wp-content/uploads/2023/01/EnPOS-Logo-1.png
-  page: true
-  socials:
-    x: EnPOS  
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+  image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pODYLKQlVbSPNYvv53_ckSo_1oJDELw7Ig&s
