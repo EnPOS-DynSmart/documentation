@@ -15,22 +15,15 @@ const config = {
   favicon: 'img/anasayfa/dynsmart-logo.png',
 
   // Set the production url of your site here
-  url: 'https://enpos-dynsmart.github.io',
-  baseUrl: '/documentation/', // Repo adına göre ayarla
-  trailingSlash: false,
-  organizationName: 'EnPOS-DynSmart', // GitHub organizasyon/adın
-  projectName: 'documentation', // Repo adı
-  deploymentBranch: 'gh-pages', // Deploy edilecek branch
-
+  url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  //baseUrl: '/',
+  baseUrl: '/',
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  //organizationName: 'EnPOS-DynSmart', // Usually your GitHub org/user name.
-  //projectName: 'documentation', // Usually your repo name.
-
-
+  organizationName: 'EnPOS-DynSmart', // Usually your GitHub org/user name.
+  projectName: 'documentation', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
