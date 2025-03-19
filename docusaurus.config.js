@@ -195,6 +195,9 @@ const config = {
                 html: '<strong>Ümraniye / İstanbul</strong>'
               },
               {
+                html: '0 (216) 348 27 10'
+              },
+              {
                 label: 'info@enpos.com.tr',
                 href: 'mailto: info@enpos.com.tr',
               },
