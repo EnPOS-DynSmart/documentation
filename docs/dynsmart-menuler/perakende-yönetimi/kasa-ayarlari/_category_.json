@@ -1,8 +1,8 @@
 {
-  "label": "Ürün Katalog Raporları",
+  "label": "Kasa İşlemleri",
   "position": 7,
   "link": {
     "type": "generated-index",
-    "description": "Urun katalog raporları."
+    "description": "Kasa işlemleri."
   }
 }
