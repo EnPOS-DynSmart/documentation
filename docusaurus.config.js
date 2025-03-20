@@ -85,7 +85,7 @@ const config = {
             label: 'Docs',
           },
           { to: 'docs/dynsmart-menuler/intro', label: 'DynSmart Menüler', position: 'left' },
-          { to: 'docs/temel-erp-egitimi/intro', label: 'Temel ERP Eğitimi', position: 'left' },
+          //{ to: 'docs/temel-erp-egitimi/intro', label: 'Temel ERP Eğitimi', position: 'left' },
           { to: 'docs/products/intro', label: 'EnPOS Donanımları', position: 'left' },
           { to: 'docs/software/intro', label: 'EnPOS Yazılımları', position: 'left' },
           
