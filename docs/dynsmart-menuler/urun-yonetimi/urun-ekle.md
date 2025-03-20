@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Yeni bir **Stok Kartı/Ürün** eklemek için **Ürün Yönetimi -> Ürün Ekle** sekmesini açınız.
 
+Ürün Ekle menüsünden **Ürün Adı, Stok Kodu, Barkod, Kategori, Marka, Birim, KDV Oranı ve Vergi Departmanı** kategorileri zorunludur. Bunları doldurduktan sonra sağ altta yer alan yeşil Kaydet butonuna tıklayalım.
+
 Ürün Ekleme ekranında **Ürün Ekle** sekmesine tıklayarak aşağıdaki ekrana ulaşabilirsiniz.
 
 Stok Kodu, Barkod, Ürün Adı, Kategori, Ürün Kaynağı, Birim, BFK, Marka, Durum, Ürün Adı 2, Ticari İsmi, Barkod 2, Barkod 3, Barkod 4, Barkod 5, ISBN, EAN, GTIN, Üretici Mal Kodu, Fatura Kodu, Tedarikçi Kodu, KDV Oranı, Vergi Departmanı, Desi, En, Boy, Yükseklik, Maliyet Takip Yöntemi, Takip Politikası gibi birçok alanı stok kartına kaydedebilirsiniz.
