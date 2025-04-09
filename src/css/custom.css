@@ -25,20 +25,69 @@
 }
 /* Header */
 .navbar {
-  background-color: #E6E6E6 !important;
+  background-color: #23375A !important;
+  border-bottom: 1px solid #E6E6E6; /* Çizgi kalınlığı ve rengi */
 }
 
 /* Footer */
 .footer {
   background-color: #23375A!important;
+  border-top: 1px solid #E6E6E6; /* Çizgi kalınlığı ve rengi */
 }
 
-/* Karanlık Temada Header */
-[data-theme='dark'] .navbar {
-  background-color: #23375A!important;
+
+/* ✅ Sidebar (sol menü) arka plan rengini kesin olarak değiştir */
+.theme-doc-sidebar-container {
+  background-color: #23375A !important;
 }
 
-/* Karanlık Temada Footer */
-[data-theme='dark'] .footer {
-  background-color: #23375A!important;
+/* ✅ Sidebar içindeki TÜM YAZILARIN rengini beyaz yap */
+.theme-doc-sidebar-container * {
+  color: #FFFFFF !important;
+}
+
+/* ✅ Sidebar içindeki kategori başlıklarının yazı rengi */
+.theme-doc-sidebar-item-category,
+.menu__list-item-collapsible {
+  color: #FFFFFF !important;
+}
+
+/* ✅ Sidebar kategori başlıklarının arka plan rengi */
+.menu__list-item-collapsible {
+  background-color: #23375A !important;
+}
+
+/* ✅ Sidebar’daki linklerin rengini beyaz yap */
+.theme-doc-sidebar-item-link {
+  color: #FFFFFF !important;
+}
+
+/* ✅ Navbar logosunu biraz yukarı almak için */
+.navbar__logo {
+  margin-top: -5px; /* Değeri ihtiyaca göre artır/azalt */
+}
+
+/* ✅ Navbar içindeki linkleri (menü öğelerini) beyaz yap */
+[data-theme='dark'] .navbar__link {
+  color: #FFFFFF !important;
+}
+/* ✅ Navbar içindeki linkleri (menü öğelerini) beyaz yap */
+[data-theme='light'] .navbar__link {
+  color: #FFFFFF !important;
+}
+/* ✅ Navbar içindeki başlıkları ve ikonları beyaz yap */
+[data-theme='dark'] .navbar__title,
+[data-theme='dark'] .navbar__item {
+  color: #FFFFFF !important;
+}
+/* ✅ Navbar içindeki başlıkları ve ikonları beyaz yap */
+[data-theme='light'] .navbar__title,
+[data-theme='light'] .navbar__item {
+  color: #FFFFFF !important;
+}
+
+/* ✅ Navbar'daki dropdown menüdeki yazıları beyaz yap */
+[data-theme='dark'] .dropdown__menu {
+  background-color: #23375A !important; /* Menü arka planını koyu yap */
+  color: #FFFFFF !important; /* Menü içindeki linkleri beyaz yap */
 }

@@ -41,8 +41,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          //sidebarPath: './sidebars.js',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
+          //sidebarPath: require.resolve('./sidebars.js'),
 
         },
         blog: {
@@ -68,24 +68,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      colorMode: {
+        defaultMode: 'light', // Varsayılan olarak açık modu kullan
+        disableSwitch: true, // Tema geçişini tamamen devre dışı bırak
+      },
+      
       image: 'img/anasayfa/dynsmart-logo-white.png',
       navbar: {
-        title: 'DynSmart',
+        title: '                  ',
         logo: {
           alt: 'DynSmart Logo',
-          src: 'img/anasayfa/dynsmart-logo.png',
+          src: 'img/anasayfa/dynsmart-logo-wide.png',
           
 
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
+          //{type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: ''},
           { to: 'docs/dynsmart-menuler/intro', label: 'DynSmart Menüler', position: 'left' },
-          //{ to: 'docs/temel-erp-egitimi/intro', label: 'Temel ERP Eğitimi', position: 'left' },
           { to: 'docs/products/intro', label: 'EnPOS Donanımları', position: 'left' },
           { to: 'docs/software/intro', label: 'EnPOS Yazılımları', position: 'left' },
           
@@ -208,7 +208,7 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        //darkTheme: prismThemes.dracula,
       },
     }),
 };
