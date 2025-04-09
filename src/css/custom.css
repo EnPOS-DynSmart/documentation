@@ -124,3 +124,9 @@
 .navbar-sidebar .menu__link:hover {
   background-color: #1e2a46 !important;
 }
+
+/* Mobil sidebar'daki "Ana Menüye Dön" yazısını beyaz yap */
+.navbar-sidebar__back {
+  color: #FFFFFF !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* İsteğe bağlı alt çizgi */
+}
