@@ -91,3 +91,36 @@
   background-color: #23375A !important; /* Menü arka planını koyu yap */
   color: #FFFFFF !important; /* Menü içindeki linkleri beyaz yap */
 }
+
+
+
+/* Mobilde sidebar açılınca gelen menünün arka planını koyu mavi yap */
+.navbar-sidebar {
+  background-color: #23375A !important;
+}
+
+/* Menü içindeki tüm yazıların rengini beyaz yap */
+.navbar-sidebar .menu__link,
+.navbar-sidebar .menu__caret,
+.navbar-sidebar .menu__list-item-collapsible {
+  color: #FFFFFF !important;
+}
+
+/* Menü kategori başlıkları */
+.navbar-sidebar .menu__link--sublist {
+  background-color: #23375A !important;
+}
+
+/* Menü alt linkler */
+.navbar-sidebar .menu__list-item {
+  border-bottom: 1px solid rgba(188, 27, 27, 0.1);
+}
+
+/* Menü kapatma butonu (X simgesi) */
+.navbar-sidebar__close {
+  color: #FFFFFF !important;
+}
+
+.navbar-sidebar .menu__link:hover {
+  background-color: #1e2a46 !important;
+}
