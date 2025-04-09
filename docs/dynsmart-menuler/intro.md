@@ -13,7 +13,7 @@ Marka-Kategori düzenlemeleri yapılabilir. Mevcut stok kartları görüntülene
 Ana depodan şubelere transfer, stok giriş ve çıkış işlemleri gerçekleştirilebilir. Sayım işlemleri yapılabilir.Fiyatı değişen ürünler için otomatik olarak raf etiketi veya birçok farklı formatta etiket basılabilir. 
 
 ### Raporlar menüsünde neler yapılır ? 
-KDV, Borç-Alacak Analizi, Ürün Katalog raporları, Sipariş Analizleri, Kategori-Marka / Ürün-Marka Satış Analiz raporları, Ürün Maliyet Analizi, Kasa Fiyat Gör Raporu, Fatura-Kasa Saat Bazlı- Kaa Satış raporları gibi onlarca rapora ulaşılabilir ve bu raporlar XLS formatında dışarı aktarılabilir.
+KDV, Borç-Alacak Analizi, Ürün Katalog raporları, Sipariş Analizleri, Kategori-Marka / Ürün-Marka Satış Analiz raporları, Ürün Maliyet Analizi, Kasa Fiyat Gör Raporu, Fatura-Kasa Saat Bazlı- Kasa Satış raporları gibi onlarca rapora ulaşılabilir ve bu raporlar XLS formatında dışarı aktarılabilir.
 
 ### Perakende Yönetimi menüsünde neler yapılır ? 
 Kasa Hareketleri ve Kasa Hareket Özeti görüntülenebilir. Gider Pusulası İzleme ve Ödeme Düzeltme işlemleri yapılabilir. Kasa Mesaj Yönetimi, Kasa Mesaj Takibi ve Kasa Ekleme, Etiket Tuşu Ayarları yapılabilir. Ödeme Tipleri ve Ödeme Tuşları belirlenebilir.
