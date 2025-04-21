@@ -1,8 +1,8 @@
 {
-  "label": "Raporlar",
-  "position": 10,
+  "label": "Ürün Raporları",
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Raporlar."
+    "description": "Ürün Raporları."
   }
 }
