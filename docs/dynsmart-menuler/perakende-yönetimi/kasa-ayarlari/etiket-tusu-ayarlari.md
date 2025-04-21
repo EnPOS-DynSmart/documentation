@@ -2,5 +2,6 @@
 sidebar_position: 4
 ---
 
-# Etiket Tuşu Ayarları
+# Etiket Tuşları
 
+![Etiket Tuşları](/img/perakende-yonetimi/etiket-tusu-ayarlari.png)

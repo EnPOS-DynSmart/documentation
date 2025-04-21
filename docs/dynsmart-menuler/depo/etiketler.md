@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# Etiket Bas
+# Etiketler
 
 ![Etiket Bas](/img/depo-yonetimi/etiket-bas.png)
 

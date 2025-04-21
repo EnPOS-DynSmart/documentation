@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# Sayım İşlemleri
+# Sayımlar
 
 ![Sayım İşlemleri](/img/depo-yonetimi/sayim-islemleri.png)
 

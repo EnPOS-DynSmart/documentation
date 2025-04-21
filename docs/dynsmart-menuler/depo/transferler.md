@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# Transfer İşlemleri
+# Transferler
 
 ![Transfer-islemleri](/img/depo-yonetimi/transfer-islemleri.png)
 

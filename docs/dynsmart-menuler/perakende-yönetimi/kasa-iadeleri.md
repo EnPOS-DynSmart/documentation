@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Gider Pusulası İzleme
+# Kasa İadeleri
 
 ![Gider Pusulası İzleme](/img/perakende-yonetimi/gider-pusulasi-izleme.png)
 

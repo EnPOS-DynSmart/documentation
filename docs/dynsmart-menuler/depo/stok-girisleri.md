@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Stok Giriş İşlemleri
+# Stok Girişleri
 
 ![Stok Giriş İşlemleri](/img/depo-yonetimi/stok-giris.png)
 

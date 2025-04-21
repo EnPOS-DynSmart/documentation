@@ -68,6 +68,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      
+      metadata: [
+        {
+          name: 'description',
+          content: 'EnPOS ürünleri için teknik dokümantasyon sitesi.',
+        },
+      ],
 
       colorMode: {
         defaultMode: 'light', // Varsayılan olarak açık modu kullan

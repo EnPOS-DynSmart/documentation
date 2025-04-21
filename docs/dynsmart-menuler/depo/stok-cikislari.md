@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Stok Çıkış İşlemleri
+# Stok Çıkışlar
 
 ![Stok Çıkış İşlemleri](/img/depo-yonetimi/stok-cikis.png)
 
