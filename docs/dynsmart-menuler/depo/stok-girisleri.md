@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![Stok Giriş İşlemleri](/img/depo-yonetimi/stok-giris.png)
 
-Depo Yönetimi > Stok Giriş İşlemleri sekmesine gidiniz.
+Depo > Stok Girişleri sekmesine gidiniz.
 
 Yeni stok hareketi eklemek için sağ üst taraftaki <img src="/img/butonlar/ekle-buton.png" height="16"/> butonuna tıklayınız. 
 

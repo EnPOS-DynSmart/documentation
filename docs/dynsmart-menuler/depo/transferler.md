@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ![Transfer-islemleri](/img/depo-yonetimi/transfer-islemleri.png)
 
-Depo Yönetimi > Transfer İşlemleri sekmesine gidiniz.
+Depo > Transferler sekmesine gidiniz.
 
 Yeni transfer eklemek için sağ üst taraftaki <img src="/img/butonlar/ekle-buton.png" height="16"/> butonuna tıklayınız. 
 

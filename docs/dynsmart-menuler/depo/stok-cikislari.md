@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![Stok Çıkış İşlemleri](/img/depo-yonetimi/stok-cikis.png)
 
-Depo Yönetimi > Stok Çıkış İşlemleri sekmesine gidiniz.
+Depo > Stok Çıkışları sekmesine gidiniz.
 
 Yeni stok hareketi eklemek için sağ üst taraftaki <img src="/img/butonlar/ekle-buton.png" height="16"/> butonuna tıklayınız. 
 

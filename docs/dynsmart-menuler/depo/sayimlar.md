@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ![Sayım İşlemleri](/img/depo-yonetimi/sayim-islemleri.png)
 
-Depo Yönetimi > Sayım İşlemleri sekmesine gidiniz.
+Depo > Sayımlar sekmesine gidiniz.
 
 Yeni stok sayım işlemi eklemek için sağ üst taraftaki <img src="/img/butonlar/ekle-buton.png" height="16"/> butonuna tıklayınız. 
 

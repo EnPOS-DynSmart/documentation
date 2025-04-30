@@ -18,7 +18,11 @@ Toplu ürün eklemek için aşağıda gösterilen açılır pencereyi kullanın�
 
 ![Dosya Ekle](/img/urun-yonetimi/dosya-ekle.png)
 
-Açılan pencereye yüklemek istediğiniz dosyayı taşıyarak bırakabilirsiniz. Pencereye tıklayarak açılan gözat bölümünden de bilgisayarınızdaki dosyayı ekleyebilirsiniz. 
+### Eklenecek Excel Formatı
+
+Raporlar -> Ürün Raporları -> **Ürün Katalog Raporları** içinde örnek excel formatlarını bulabilirsiniz.
+
+İndirdiğiniz Excel dosyasında istenilen bilgiler eklendikten sonra açılan pencereye yüklemek istediğiniz dosyayı taşıyarak bırakabilirsiniz. Pencereye tıklayarak açılan gözat bölümünden de bilgisayarınızdaki dosyayı ekleyebilirsiniz. 
 
 ![Yükleyici](/img/urun-yonetimi/yukleyici.png)
 
