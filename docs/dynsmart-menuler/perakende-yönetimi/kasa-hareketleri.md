@@ -6,13 +6,13 @@ sidebar_position: 1
 
 ![Kasa Hareketleri](/img/perakende-yonetimi/kasa-hareketleri.png)
 
-### Kasa Hareketlerini Görüntülemek
+## Kasa Hareketlerini Görüntülemek
 
 Kasa hareketlerini görüntülemek için <img src="/img/butonlar/goruntule-buton.png" height="20"/> butonuna tıklayınız. 
 
 ![Kasa Hareketleri](/img/perakende-yonetimi/fis-belgesi.png)
 
-### Ödeme Düzeltme İşlemi
+## Ödeme Düzeltme İşlemi
 
 Ödeme düzenleme <img src="/img/butonlar/odeme-buton.png" height="20"/> butonuna tıklayarak aşağıdaki ödeme düzeltme ekranına ulaşabilirsiniz. 
 
@@ -29,6 +29,8 @@ DynSmart üzerindeki ödemeleri **nakit, kredi kartı, trendyol, multinet, ticke
 Ödeme düzeltme ekranından 35 değerini girerek kredi kartı ödemesi olarak düzenlemek için <img src="/img/butonlar/kaydet-buton.png" height="20"/> butonuna tıklayınız. 
 
 ![Kasa Hareketleri](/img/perakende-yonetimi/odeme-duzeltme-4.png)
+
+### Parçalı Ödeme Düzenleme
 
 Ödeme düzeltme ekranında 10 nakit, 15 kredi kartı, 10 trendyol olacak şekilde düzenlemek için aşağıdaki gibi düzenleyerek <img src="/img/butonlar/kaydet-buton.png" height="20"/> butonuna tıklayınız. 
 
