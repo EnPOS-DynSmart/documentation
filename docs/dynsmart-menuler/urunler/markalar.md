@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Markalar
 
-Marka eklemek için, **Ürün Yönetimi > Markalar** sekmesini açınız.
+Marka eklemek için, **Ürünler > Markalar** sekmesini açınız.
 
 Aşağıdaki ekranda sol üstteki mavi renkli <img src="/img/butonlar/yeni-ekle-buton.png" height="16"/> butonuna tıklayınız.
 

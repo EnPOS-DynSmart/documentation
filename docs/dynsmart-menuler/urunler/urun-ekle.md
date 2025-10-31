@@ -6,13 +6,14 @@ sidebar_position: 1
 
 Yeni bir **Stok Kartı/Ürün** eklemek için **Ürünler -> Ürün Ekle** sekmesini açınız.
 
+
 ![Ürün Ekle](/img/urun-yonetimi/urun-ekle.png)
 
 ### Zorunlu Alanlar
 
 Ürün eklemek için **Ürün Adı, Stok Kodu, Barkod, Kategori, Marka, Birim, KDV Oranı ve Vergi Departmanı** kategorileri **zorunludur**. 
 
-Ürün eklemeden önce Kategori ve Marka yapılarının tanımlı olması gereklidir. Eğer eklenecek ürünün Kategori ve Markası tanımlı değil ise, **Ürünler -> Kategoriler** ve **Ürünler -> Markalar** sekmelerinden  tanımlanması gereklidir.
+Ürün eklemeden önce Kategori ve Marka yapılarının tanımlı olması gereklidir. Eğer eklenecek ürünün Kategori ve Markası tanımlı değil ise, **[ Ürünler -> Markalar](./markalar)** ve **[ Ürünler -> Kategoriler](./kategoriler)** sekmelerinden  tanımlanması gereklidir.
 
 Eğer eklenecek ürünün Kategori ve Marka bilgisinden emin değilseniz **Standart** isimli bir Kategori ve **Standart** isimli bir marka tanımlayabilirsiniz. 
 

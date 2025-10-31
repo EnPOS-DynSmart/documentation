@@ -130,3 +130,12 @@
   color: #FFFFFF !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* İsteğe bağlı alt çizgi */
 }
+
+/* Tüm iframe'lere responsive oran uygula */
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border: none;
+}

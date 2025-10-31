@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Kategoriler
 
-Kategori eklemek için, **Ürün Yönetimi > Kategoriler** sekmesini açınız.
+Kategori eklemek için, **Ürünler > Kategoriler** sekmesini açınız.
 
 Aşağıdaki ekranda sol üstteki mavi renkli <img src="/img/butonlar/ana-urun-kategorisi-ekle-buton.png" height="16"/> butonuna tıklayınız.
 
